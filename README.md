@@ -1,8 +1,3 @@
-Coding partner
-Aapne To-Do List app successfully bana liya hai, great job! GitHub par upload karte waqt README.md file bahut zaroori hoti hai. Yeh aapke project ka ek brief description hoti hai, jo doosron ko (aur future mein aapko bhi) project ke baare mein quick information deti hai.
-
-Yahan ek acchi README.md file ka structure hai jo aap apne To-Do List app ke liye use kar sakte hain:
-
 My To-Do List Web App
 A simple and dynamic To-Do List web application built using Vanilla JavaScript, HTML, and CSS. This project allows users to add, mark as complete, and remove tasks from their list, providing a seamless and interactive user experience without page reloads.
 
